@@ -44,6 +44,7 @@ SUBDIRS += \
     SUBDIRS += \
         mne_forward_solution \
         mne_browse \
+		mne_gammart \
         mne_matching_pursuit \
         mne_sample_set_downloader \
 

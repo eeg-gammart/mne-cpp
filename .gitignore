@@ -1,3 +1,5 @@
+/applications/mne_gammart
+
 # Binaries Applications
 /bin/mne_analyze
 /bin/mne_analyzed
@@ -7,6 +9,8 @@
 /bin/mne_dipole_fitd
 /bin/mne_forward_solution
 /bin/mne_forward_solutiond
+/bin/mne_gammart
+/bin/mne_gammartd
 /bin/mne_launch
 /bin/mne_launchd
 /bin/mne_matching_pursuit
@@ -87,6 +91,7 @@
 /bin/test_fiff_rwrd
 
 # Other files
+/bin/mne-cpp-test-data/
 /bin/MNE-sample-data/MEG
 /bin/MNE-sample-data/subjects
 /bin/MNE-sample-data/._.DS_Store
